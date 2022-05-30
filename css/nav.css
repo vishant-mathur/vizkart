@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid img{
+    height:70px;
+    width:70px;
+    margin: -20% -20%;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    font-size: 150%;
+    position: relative;
+    background-color: #4DCEEE !important;
+    
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light a{
+    color: white;
+    
+}
+
+.bi-cart2{
+    position:absolute;
+    right:3%;
+}
+.sign-in button{
+    position: absolute;
+    right: 9%;
+}
+
+.navbar.navbar-light.bg-light{
+    position: relative;
+}
+
+.nav-2{
+    margin:0%;
+    padding: 0%;
+}
